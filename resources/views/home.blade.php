@@ -10,10 +10,10 @@
 
 <br><br>
 <div class="row wd-50p mx-auto text-center">
-<h2 class=" text-center">Bienvenue a BPM Bank</h2>
+<h2 class=" text-center">Bienvenue a la banque BPM </h2>
 
 
-						<div class="col-md-12 col-lg-12 col-xl-12 my-auto mx-auto wd-80p">
+						<div class="col-md-15 col-lg-15 col-xl-15 my-auto mx-auto wd-100p">
 							<img src="{{URL::asset('assets/img/brand/favicon.png')}}" class="my-auto ht-xl-80p wd-md-100p wd-xl-80p mx-auto" alt="logo">
 						</div>
 					</div>
